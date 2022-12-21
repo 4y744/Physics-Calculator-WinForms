@@ -1,0 +1,17 @@
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.csproj.AssemblyReference.cache
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.Form1.resources
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.csproj.GenerateResource.cache
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.AssemblyInfoInputs.cache
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.AssemblyInfo.cs
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\bin\Debug\net6.0-windows\PhysicsCalculator.exe
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\bin\Debug\net6.0-windows\PhysicsCalculator.deps.json
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\bin\Debug\net6.0-windows\PhysicsCalculator.runtimeconfig.json
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\bin\Debug\net6.0-windows\PhysicsCalculator.dll
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\bin\Debug\net6.0-windows\PhysicsCalculator.pdb
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.dll
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\refint\PhysicsCalculator.dll
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.pdb
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\PhysicsCalculator.genruntimeconfig.cache
+C:\Users\Aytach Salif\source\repos\PhysicsCalculator\obj\Debug\net6.0-windows\ref\PhysicsCalculator.dll
